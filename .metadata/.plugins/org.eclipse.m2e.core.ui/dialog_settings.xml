@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Elias\Desktop\Programacao\curso java udemy\workshop-springboot2-jpa-master"/>
 			<item value="C:\Users\Elias\Desktop\Programacao\Projetos GIT HUB\Java\workshop-springboot2-jpa-master"/>
 		</list>
 		<list key="projectNameTemplate">

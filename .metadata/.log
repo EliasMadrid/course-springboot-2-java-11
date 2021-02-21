@@ -426,3 +426,6 @@ Caused by: java.nio.file.InvalidPathException: Illegal char <:> at index 2:  C:\
 	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.computeJavaPath(XMLLanguageServer.java:160)
 	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:81)
 	... 23 more
+
+!ENTRY org.eclipse.ui 2 2 2021-02-18 02:58:01.945
+!MESSAGE Invalid property category path: org.eclipse.cdt.managedbuilder.ui.properties.Page_head_build (bundle: org.eclipse.cdt.ui, propertyPage: org.eclipse.cdt.managedbuilder.ui.properties.BuildLogPreferencePage)
